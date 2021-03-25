@@ -30,7 +30,7 @@ pycparser==2.19
 PyMySQL==0.9.3
 python-dateutil==2.7.5
 pytz==2018.7
-PyYAML==5.1
+PyYAML==5.4
 scipy==1.2.1
 six==1.11.0
 text-unidecode==1.2
