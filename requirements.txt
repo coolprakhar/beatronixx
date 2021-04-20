@@ -25,7 +25,7 @@ pandas==0.23.4
 postgis==1.0.4
 protobuf==3.7.1
 psycopg2==2.8.2
-py==1.8.0
+py==1.10.0
 pycparser==2.19
 PyMySQL==0.9.3
 python-dateutil==2.7.5
